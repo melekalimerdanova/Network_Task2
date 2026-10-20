@@ -1,0 +1,14 @@
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\bin\Debug\net10.0\Network_Task2.exe
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\bin\Debug\net10.0\Network_Task2.deps.json
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\bin\Debug\net10.0\Network_Task2.runtimeconfig.json
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\bin\Debug\net10.0\Network_Task2.dll
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\bin\Debug\net10.0\Network_Task2.pdb
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\Network_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\Network_Task2.AssemblyInfoInputs.cache
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\Network_Task2.AssemblyInfo.cs
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\Network_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\Network_Task2.dll
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\refint\Network_Task2.dll
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\Network_Task2.pdb
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\Network_Task2.genruntimeconfig.cache
+C:\Users\Masum Alimardanov\source\repos\Network_Task2\Network_Task2\obj\Debug\net10.0\ref\Network_Task2.dll
